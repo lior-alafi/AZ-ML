@@ -1,2 +1,2 @@
 # AZ-ML
-az-ml course content
+followed az-ml course content
